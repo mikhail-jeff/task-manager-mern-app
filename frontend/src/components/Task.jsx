@@ -1,4 +1,3 @@
-import { set } from 'mongoose';
 import { FaCheckCircle, FaTrashAlt, FaEdit } from 'react-icons/fa';
 
 const Task = ({ task, index, deleteTask, getSingleTask, setToComplete }) => {
