@@ -543,3 +543,7 @@ a:hover {
 	font-weight: 600;
 	margin-bottom: 30px;
 }
+
+.margin-right {
+	margin-right: 3px;
+}
